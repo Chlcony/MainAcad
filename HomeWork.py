@@ -1,9 +1,9 @@
-name = 'Anton'
-age = '22'
-gender = 'male'
-# name = input('Name is - ')
-# age = input('Age is - ')
-# gender = input('Gender is - ')
+# name = 'Anton'
+# age = '22'
+# gender = 'male'
+name = input('Name is - ')
+age = input('Age is - ')
+gender = input('Gender is - ')
 
 str_1 = 'Hello, my name is ' + name + '. ' + 'I\'m ' + age + ' and I\'m a '\
         + gender.lower() + '.'
